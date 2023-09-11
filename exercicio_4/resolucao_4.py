@@ -39,8 +39,8 @@ def calcular_salario_vendedor():
     )
 
     if definir_percentual == "1":
-        percentual_escolhido = int(input(
-            "Informe quantos '%' deseja como percentual(em número inteiro): "
+        percentual_escolhido = float(input(
+            "Informe quantos '%' deseja como percentual: "
         ))
 
         acrescimo_salarial = salario_fixo_vendedor * percentual_escolhido/100
