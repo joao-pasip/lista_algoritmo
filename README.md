@@ -9,6 +9,8 @@ Sobre essa atividade:
 - Curso: Gestão de Tecnologia da Informação – I Semestre
 
 - Professor: Lourivaldo Barreto Pereira
+  - [Linkedin](https://www.linkedin.com/in/lourivaldo-barreto-pereira-89578760/)
+  - [Lattes](http://lattes.cnpq.br/8720861742868012)
 
 - Componente Curricular: Algoritmo e Lógica de Programação
 
