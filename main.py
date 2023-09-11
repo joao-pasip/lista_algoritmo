@@ -7,6 +7,7 @@
 # from exercicio_6.resolucao_6 import verficar_numero_par_ou_impar
 # from exercicio_7.resolucao_7 import verificar_financiamento
 # from exercicio_8.resolucao_8 import verificar_conceito_aluno
+# from exercicio_9.resolucao_9 import conceder_aumento_salarial
 
 # Exercício 1
 # print(calcular_area_circulo())
@@ -48,3 +49,4 @@
 #####################################################################
 
 # Exercício 9
+# print(conceder_aumento_salarial())
