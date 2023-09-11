@@ -6,6 +6,7 @@
 # from exercicio_5 import calcular_velocidade_media
 # from exercicio_6 import verficar_numero_par_ou_impar
 # from exercicio_7 import verificar_financiamento
+from exercicio_8.resolucao_8 import verificar_conceito_aluno
 
 # Exercício 1
 # print(calcular_area_circulo())
@@ -40,3 +41,14 @@
 # print(verificar_financiamento())
 
 #####################################################################
+
+# Exercício 8
+print(verificar_conceito_aluno())
+
+#####################################################################
+
+# Exercício 9
+
+
+# if __name__ == "__main__":
+#     print(verificar_conceito_aluno())
