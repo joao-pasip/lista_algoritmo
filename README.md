@@ -1,6 +1,6 @@
-# Lista de Algoritmo
+# Objetivo
 
-O objetivo dessa lista de exercício é desenvolver a lógica de programação e entender sobre estrutura de dados.
+O objetivo dessa lista de exercícios de algoritmo é desenvolver a lógica de programação e entender sobre estrutura de dados.
 
 Logo, foi possível aprender a sintaxe básica da linguagem de programação Python, desta forma, conceitos sobre variáveis, tipos de dados, entrada de dados, saída desses dados, função, retorno dessas funções, while (enquanto), estrutura condicional (if, elif, else), modularização e fluxograma foi praticado durante a execução da lista de exercícios.
 
